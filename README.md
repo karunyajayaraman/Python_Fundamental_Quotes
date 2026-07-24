@@ -1,5 +1,6 @@
-🐍 Python Fundamentals – Core Python, NumPy, Pandas
-Case Studies & Hands-on Practice
+🐍 Python Fundamentals – Case Studies & Hands-on Practice
+(Core Python, NumPy, Pandas)
+
 
 Welcome to my Python Fundamentals repository!
 
