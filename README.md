@@ -20,6 +20,7 @@ Build a strong foundation for Data Analytics, Data Science, and Automation.
 Each notebook contains explanations, code implementations, and outputs to reinforce understanding.
 
 📚 Topics Covered
+
 Python Basics
 Variables and Data Types
 Operators
@@ -55,6 +56,7 @@ Weather Data Analysis
 Product Inventory Analysis
 
 🛠 Tools & Technologies
+
 Python 3
 Jupyter Notebook
 Google Colab
