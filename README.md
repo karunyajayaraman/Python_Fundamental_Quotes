@@ -12,33 +12,33 @@ and business-oriented scenarios to build a strong programming foundation for Dat
 
 The purpose of this repository is to:
 
-Learn Python concepts from beginner to intermediate level.
-Apply each concept through hands-on case studies.
-Practice solving real-world business problems.
-Build a strong foundation for Data Analytics, Data Science, and Automation.
+-Learn Python concepts from beginner to intermediate level.
+-Apply each concept through hands-on case studies.
+-Practice solving real-world business problems.
+-Build a strong foundation for Data Analytics, Data Science, and Automation.
 
 Each notebook contains explanations, code implementations, and outputs to reinforce understanding.
 
 📚 Topics Covered
 
-Python Basics
-Variables and Data Types
-Operators
-Conditional Statements
-Loops
-Functions
-Strings
-Lists
-Tuples
-Sets
-Dictionaries
-Exception Handling
-File Handling
-Modules and Packages
-NumPy
-Pandas
-Practice Assignments
-Module-End Assignments
+-Python Basics
+-Variables and Data Types
+-Operators
+-Conditional Statements
+-Loops
+-Functions
+-Strings
+-Lists
+-Tuples
+-Sets
+-Dictionaries
+-Exception Handling
+-File Handling
+-Modules and Packages
+-NumPy
+-Pandas
+-Practice Assignments
+-Module-End Assignments
 
 💼 Case Study Approach
 
@@ -47,31 +47,31 @@ This helps in understanding not only the syntax but also when and how each Pytho
 
 Examples include:
 
-Student Performance Analysis
-Employee Data Processing
-Sales Data Analysis
-Banking Transactions
-Customer Information Management
-Weather Data Analysis
-Product Inventory Analysis
+-Student Performance Analysis
+-Employee Data Processing
+-Sales Data Analysis
+-Banking Transactions
+-Customer Information Management
+-Weather Data Analysis
+-Product Inventory Analysis
 
 🛠 Tools & Technologies
 
-Python 3
-Jupyter Notebook
-Google Colab
-NumPy
-Pandas
+-Python 3
+-Jupyter Notebook
+-Google Colab
+-NumPy
+-Pandas
 
 🎯 Learning Outcomes
 
 By completing these case studies, I have strengthened my understanding of:
 
-Python programming fundamentals
-Problem-solving techniques
-Data manipulation using Python
-Writing clean and reusable code
-Preparing for Data Analytics and Automation projects
+-Python programming fundamentals
+-Problem-solving techniques
+-Data manipulation using Python
+-Writing clean and reusable code
+-Preparing for Data Analytics and Automation projects
 
 
 
